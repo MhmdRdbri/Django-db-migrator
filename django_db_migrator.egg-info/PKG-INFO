@@ -9,6 +9,10 @@ Classifier: License :: OSI Approved :: MIT License
 Description-Content-Type: text/markdown
 Requires-Dist: python-dotenv
 
+<p align="center">
+  <img src="assets/logo.png" width="300" alt="Django DB Migrator">
+</p>
+
 # django-db-migrator
 
 A lightweight CLI tool to migrate a Django PostgreSQL database between environments or platforms. Perfect for moving data between servers, staging/production, or local/dev environments.
@@ -113,7 +117,7 @@ brew install postgresql             # macOS
 ## Development
 
 ```bash
-git clone https://github.com/yourusername/django-db-migrator.git
+git clone https://github.com/MhmdRdbri/Django-db-migrator
 cd django-db-migrator
 pip install -e .
 ```
