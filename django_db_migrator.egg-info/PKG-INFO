@@ -1,3 +1,14 @@
+Metadata-Version: 2.4
+Name: django-db-migrator
+Version: 0.1.0
+Summary: Easily migrate your Django PostgreSQL database between platforms
+Home-page: https://github.com/yourusername/django-db-migrator
+Author: Your Name
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown
+Requires-Dist: python-dotenv
+
 # django-db-migrator
 
 A lightweight CLI tool to migrate a Django PostgreSQL database between environments or platforms. Perfect for moving data between servers, staging/production, or local/dev environments.
